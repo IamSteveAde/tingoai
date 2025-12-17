@@ -31,7 +31,7 @@ const Navbar = () => {
             </Link>
 
             {/* DESKTOP NAV */}
-            <nav className="hidden lg:flex items-center gap-10">
+            <nav className="hidden lg:flex items-center gap-10 text-white">
               <Link href="#why" className="nav-link">Why TingoAI</Link>
               <Link href="#platforms" className="nav-link">Platforms</Link>
               <Link href="#industries" className="nav-link">Industries</Link>
